@@ -184,3 +184,5 @@ The project will be considered successful when the following outcomes are achiev
 # Document Status
 
 **Current Status:** Draft
+
+**Next Step:** Stakeholder Analysis and Requirement Elicitation
